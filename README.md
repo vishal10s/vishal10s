@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal Kumar
 - 👋 Studying B.Tech in Computer Science Engineering 
 - 👀 I’m interested in new and trending technologies
-- 🌱 I’m currently learning Machine learning, Deep learning, and data science
+- 🌱 I’m currently learning Machine learning, Deep learning, and Data Science
 - 💞️ I’m looking to collaborate on some data science solutions delivering firms
 - 📫 How to reach me - vishalkr477@gmail.com
